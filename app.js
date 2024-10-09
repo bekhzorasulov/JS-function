@@ -166,6 +166,8 @@
 // }
 // console.log(seconds(1, 3));
 
+// UYGA VAZIFA 2-QISIM 26DAN 60GACHA
+
 // 26 misol
 // function fun(n) {
 //     if (n <= 1) {
@@ -183,8 +185,63 @@
 // }
 // console.log(fun(9));
 
+// 27 misol
+// function numb(x, y) {
+//     if (x === y) {
+//         return "true";
+//     } else {
+//         return "flase";
+//     }
+// }
+// console.log(numb(1, "1"));
+
 // 28 misol
 // function booleanToString(b) {
 //     return String(b);
 // }
 // console.log(booleanToString(true));
+
+// 29 misol
+// const arr = (a) => {
+//     return a;
+// };
+// console.log(arr(3));
+
+// 30 misol
+// function frameNum(minut, frame) {
+//     return minut * 60 * frame;
+// }
+// console.log(frameNum(10, 25));
+
+// 31 misol
+// function calc(str) {
+//     return eval(str);
+// }
+// console.log(calc("45-15"));
+
+// 32 misol
+// function teng10(x, y) {
+//     return x === 10 || y === 10 || x + y === 10;
+// }
+// console.log(teng10(9, 10));
+
+// 33 misol
+// function litrDistance(litr) {
+//     return litr * 10;
+// }
+// console.log(litrDistance(23.5));
+
+// 34 misol
+// function fun(x, y) {
+//     return Math.max(x, y);
+// }
+// console.log(fun(-1, 0));
+// console.log(fun(1000, 400));
+
+// 35 misol
+// function mass(x, y) {
+//     let newMass = [];
+//     newMass.push(x, y);
+//     console.log(newMass);
+// }
+// mass(1, 4);
